@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calismalar", "Calismalar\Calismalar.csproj", "{DDFAEECE-EE70-40DE-A0FD-51B2635C4D52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calismalar", "Calismalar\Calismalar.csproj", "{DDFAEECE-EE70-40DE-A0FD-51B2635C4D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{CC625DDC-DFAD-4DFC-B71A-6E59C744CE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{9F90EDE9-4E64-451A-BDBD-FB335C63F3AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DDFAEECE-EE70-40DE-A0FD-51B2635C4D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDFAEECE-EE70-40DE-A0FD-51B2635C4D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDFAEECE-EE70-40DE-A0FD-51B2635C4D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC625DDC-DFAD-4DFC-B71A-6E59C744CE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC625DDC-DFAD-4DFC-B71A-6E59C744CE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC625DDC-DFAD-4DFC-B71A-6E59C744CE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC625DDC-DFAD-4DFC-B71A-6E59C744CE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F90EDE9-4E64-451A-BDBD-FB335C63F3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F90EDE9-4E64-451A-BDBD-FB335C63F3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F90EDE9-4E64-451A-BDBD-FB335C63F3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F90EDE9-4E64-451A-BDBD-FB335C63F3AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
